@@ -61,7 +61,7 @@
     css
     Copy code
     
-    4. **Responsive Adjustments:**
+    **Responsive Adjustments:**
     ```css
     @media (max-width: 768px) {
         .weather-search,
